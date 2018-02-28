@@ -1,0 +1,7 @@
+1、显示系统信息：help:system
+2、运行测试类：clean test
+3、打包：clean package
+4、列举当前项目已解析依赖：dependency:list
+5、查看当前项目的依赖树：dependency:tree
+6、分析依赖树(只分析编译主代码和测试代码需要用到的依赖，一些执行测试和运行时需要的依赖它发现不了)：dependency:analyze
+
